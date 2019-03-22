@@ -643,7 +643,7 @@ ts-mention.ts_tip:hover
 
 .rxn[data-emoji] .emoji_rxn_count {
    font-size: 0.9rem;
-   /*color: black !important;*/
+   color: white !important;
 }
 
 .rxn .emoji-sizer {
